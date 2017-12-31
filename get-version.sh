@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 set -e
 JSON=$(wget -q -O - https://www.server-residenz.com/tools/ts3versions.json)
 

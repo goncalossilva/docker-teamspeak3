@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 case $TS_VERSION in
   LATEST)
